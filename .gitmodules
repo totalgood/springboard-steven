@@ -1,0 +1,6 @@
+[submodule "Springboard-Proposal"]
+	path = Springboard-Proposal
+	url = ./Springboard-Proposal/
+[submodule "patents"]
+	path = patents
+	url = ./patents/
